@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a27c6f4dc4ba3b41a612181c599d80b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PatrolItem: {fileID: 100000, guid: c54b728d42a1d46a683a93dc61212f72, type: 3}
+  - HeroItem: {fileID: 100000, guid: 67bccadeb0e6e46db8e59caca693ad4c, type: 3}
+  - sceneModelItem: {fileID: 182740, guid: 8f2ff01d600c34060b8fe2a90bf01b7d, type: 3}
+  - canvasItem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
